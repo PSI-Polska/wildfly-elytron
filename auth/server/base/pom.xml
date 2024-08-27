@@ -24,7 +24,7 @@
     <parent>
         <groupId>org.wildfly.security</groupId>
         <artifactId>wildfly-elytron-parent</artifactId>
-        <version>1.19.2-6-PSI</version>
+        <version>1.19.2-7-PSI-SNAPSHOT</version>
         <relativePath>../../../pom.xml</relativePath>
     </parent>
 
